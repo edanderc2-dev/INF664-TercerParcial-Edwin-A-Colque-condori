@@ -2,6 +2,6 @@
 
 ## Información del Estudiante
 - **Nombre:** Edwin Alexander Colque Condori
-- **Carrera:** [Escribe aquí tu carrera, ej: Ingeniería de Sistemas]
+- **Carrera:** Ingenieria Informatica
 - **Materia:** Programación de Redes
 - **Examen:** Tercer Parcial
