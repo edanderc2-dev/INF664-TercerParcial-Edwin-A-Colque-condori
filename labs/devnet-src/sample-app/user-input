@@ -1,4 +1,11 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo -n "Introduzca su nombre: "
 read userName
 echo "Tu nombre es $userName."
+=======
+echo -n "Introdusca su nombre: "
+read userName
+echo "Tu nombre es $userName."
+
+>>>>>>> 63b5d93e1f39a6beb11aa0ac0c78e69ab7717c6d
